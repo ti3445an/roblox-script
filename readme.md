@@ -1,6 +1,6 @@
 # Wave Executor
 
-![Wave Executor Preview](/assets/nexus.jpg)
+![Wave Executor Preview](/assets/nnelentu.webp)
 
 ## Description
 
